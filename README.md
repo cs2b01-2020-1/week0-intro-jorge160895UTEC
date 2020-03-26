@@ -1,1 +1,2 @@
-# week0-intro
+# Jorge Neira
+# CS - UTEC
