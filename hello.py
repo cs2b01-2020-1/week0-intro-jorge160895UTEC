@@ -1,2 +1,3 @@
 name = input()
-print("Hello", name)
+lastname = input()
+print("Hello ", name, ", ", lastname)
